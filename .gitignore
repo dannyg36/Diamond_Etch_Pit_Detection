@@ -1,2 +1,54 @@
+# OS files
 .DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Qt/C++ build files
 *.pro.user
+*.autosave
+build/
+release/
+debug/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.ncb
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Dependency directories
+vendor/
+third_party/
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# macOS
+__pycache__/
+*.pyc
+
+# Windows
+*.exe
+*.msi
+*.dmg
