@@ -11,5 +11,3 @@ This tool provides fast, quantitative assessment of diamond substrate quality th
 - Quantitative etch pit density and depth measurements
 - Batch processing capability
 - Validation against AFM measurements
-
-## Quick Start
